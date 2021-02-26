@@ -1,0 +1,2 @@
+this is a new file to test amend command!
+ok i forgot to add some more contents,so i write it here!
